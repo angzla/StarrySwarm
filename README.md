@@ -2,6 +2,16 @@
 This work is an art project that explores how different swarm algorithms, algorithms based off of collective intelligent systems in nature, can make art from inputted audio. I use Processing to visualize KANTS, PSO, and BOIDS and compare the outputs based on visual variability for different music genres and sounds. In my thesis linked [here](url), I discuss how StarrySwarm, my implementation of BOIDS, was the most dynamic across movement and color and responsive to changes in sound. 
 
 ## Videos
+View all videos here: [gallery](url)
+
+### Starryswarm 
+![starryswarm](https://github.com/angzla/StarrySwarm/blob/main/starryswarm.gif)
+
+### PSO
+![pso](https://github.com/angzla/StarrySwarm/blob/main/pso.gif)
+
+### KANTS
+![kants](https://github.com/angzla/StarrySwarm/blob/main/kants.gif)
 
 ## HOW TO RUN LOCALLY
 1. From Github, download and open app package according to operating system
