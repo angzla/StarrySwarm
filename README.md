@@ -14,7 +14,7 @@ View all videos here: [gallery](https://youtube.com/playlist?list=PLsro6Cwvmceua
 ![kants](https://github.com/angzla/StarrySwarm/blob/main/kants.gif)
 
 ## HOW TO RUN LOCALLY
-1. From Github, download and open app package according to operating system
+1. From Github app folder, download and open app package according to operating system
 2. If on MacOS, open terminal
 - Type xattr -cr \path\to\app
 4. Users on other platforms will need to install OpenJDK17 at [https://adoptium.net](https://adoptium.net)
@@ -23,7 +23,7 @@ View all videos here: [gallery](https://youtube.com/playlist?list=PLsro6Cwvmceua
 ## HOW TO EDIT CODE 
 1. Download Processing 4.3.4 [https://processing.org/download](https://processing.org/download)
 2. Import sound library
-3. Copy Code or Download Code from Github for selected algorithm, paste or open in processing
+3. Copy Code or Download Code from Github code folder for selected algorithm, paste or open in processing. Each code is standalone. 
 - BOIDS_final is the final version of StarrySwarm 
 - PSO_final is the final version of PSO
 - KANTS_color is the final version of KANTS
