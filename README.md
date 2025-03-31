@@ -17,7 +17,7 @@ View all videos here: [gallery](https://youtube.com/playlist?list=PLsro6Cwvmceua
 1. From Github, download and open app package according to operating system
 2. If on MacOS, open terminal
 - Type xattr -cr \path\to\app
-4. Download necessary packages, usually java
+4. Users on other platforms will need to install OpenJDK17 at [https://adoptium.net](https://adoptium.net)
 5. Allow sound access 
 
 ## HOW TO EDIT CODE 
