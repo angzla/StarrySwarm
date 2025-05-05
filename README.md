@@ -6,6 +6,7 @@ View all videos here: [gallery](https://youtube.com/playlist?list=PLsro6Cwvmceua
 
 ### Starryswarm 
 ![starryswarm](https://github.com/angzla/StarrySwarm/blob/main/starryswarm.gif)
+![starryswarm2](https://github.com/angzla/StarrySwarm/blob/main/starryswarm2.gif)
 
 ### PSO
 ![pso](https://github.com/angzla/StarrySwarm/blob/main/pso.gif)
