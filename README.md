@@ -4,6 +4,8 @@ This work is an art project that explores how different swarm algorithms, algori
 ## Videos
 View all videos here: [gallery](https://youtube.com/playlist?list=PLsro6Cwvmceuaw9eLh6N0waUc08S1HUG7&si=ASSh_qcwqHQQU-WI)
 
+View my talk here: [video](https://youtu.be/Fs6_1vZRmJw)
+
 ### Starryswarm 
 ![starryswarm](https://github.com/angzla/StarrySwarm/blob/main/starryswarm.gif)
 ![starryswarm2](https://github.com/angzla/StarrySwarm/blob/main/starryswarm2.gif)
