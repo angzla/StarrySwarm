@@ -32,4 +32,9 @@ View my talk here: [video](https://youtu.be/Fs6_1vZRmJw)
 - KANTS_color is the final version of KANTS
 4. Edit in Java 
 5. Allow access to computer output
-6. Play to run 
+6. Play to run
+
+## Acknowledgements 
+- Harvey Mudd Bee Lab 
+- Readers: Professor Mark Huber, Professor Jingyi Li, Professor Matthew Pagoaga
+- Friends & Family <3
